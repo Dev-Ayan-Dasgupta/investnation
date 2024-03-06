@@ -1,0 +1,67 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "investnation-app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "investnation-app (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "investnation-app (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "investnation-app",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main.dart"
+        },
+        {
+            "name": "investnation-app-Dev",
+            "request": "launch",
+            "args": [
+                "--flavor",
+                "dev",
+            ],
+            "type": "dart",
+            "program": "lib/main_dev.dart"
+        },
+        {
+            "name": "investnation-app-SIT",
+            "request": "launch",
+            "args": [
+                "--flavor",
+                "sit",
+            ],
+            "type": "dart",
+            "program": "lib/main_sit.dart"
+        },
+        {
+            "name": "investnation-app-UAT",
+            "request": "launch",
+            "args": [
+                "--flavor",
+                "uat",
+            ],
+            "type": "dart",
+            "program": "lib/main_uat.dart"
+        },
+        {
+            "name": "investnation-app-PROD",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main_prod.dart"
+        }
+    ]
+}

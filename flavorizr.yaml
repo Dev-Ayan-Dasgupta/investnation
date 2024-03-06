@@ -1,0 +1,32 @@
+flavors:
+  dev:
+    app:
+      name: "InvestNation Dev"
+    android:
+      applicationId: "com.fhc.InvestNation.dev"
+    ios:
+      bundleId: "com.fhc.InvestNation.dev"
+
+  sit:
+    app:
+      name: "InvestNation SIT"
+    android:
+      applicationId: "com.fhc.InvestNation.sit"
+    ios:
+      bundleId: "com.fhc.InvestNation.sit"
+
+  uat:
+    app:
+      name: "InvestNation UAT"
+    android:
+      applicationId: "com.fhc.InvestNation.uat"
+    ios:
+      bundleId: "com.fhc.InvestNation.uat"
+
+  prod:
+    app:
+      name: "InvestNation"
+    android:
+      applicationId: "com.fhc.InvestNation"
+    ios:
+      bundleId: "com.fhc.InvestNation"

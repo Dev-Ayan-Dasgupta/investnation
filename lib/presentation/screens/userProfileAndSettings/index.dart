@@ -1,0 +1,12 @@
+export './card_management.dart';
+export './card_statements.dart';
+export './change_password.dart';
+export './documents.dart';
+export './faq.dart';
+export './portfolio_statements.dart';
+export './profile_edit.dart';
+export './profile_home.dart';
+export './security.dart';
+export './pre_risk_profile.dart';
+export './pre_eid_screen.dart';
+export './update_secondary_email.dart';

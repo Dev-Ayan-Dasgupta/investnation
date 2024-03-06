@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/user/Flutter_Projects/investnation-app/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/user/Flutter_Projects/investnation-app/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/user/Flutter_Projects/investnation-app/ios/build/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/user/Flutter_Projects/investnation-app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/user/Flutter_Projects/investnation-app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/user/Flutter_Projects/investnation-app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/user/Flutter_Projects/investnation-app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/user/Flutter_Projects/investnation-app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/user/Flutter_Projects/investnation-app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/user/Flutter_Projects/investnation-app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/user/Flutter_Projects/investnation-app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/user/Flutter_Projects/investnation-app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/user/Flutter_Projects/investnation-app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/user/Flutter_Projects/investnation-app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/user/Flutter_Projects/investnation-app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/user/Flutter_Projects/investnation-app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/user/Flutter_Projects/investnation-app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/user/Flutter_Projects/investnation-app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/user/Flutter_Projects/investnation-app/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h

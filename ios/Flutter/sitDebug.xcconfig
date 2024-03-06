@@ -1,0 +1,7 @@
+#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug-sit.xcconfig"
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_sit.dart
+ASSET_PREFIX=sit
+BUNDLE_NAME=InvestNation SIT
+BUNDLE_DISPLAY_NAME=InvestNation SIT

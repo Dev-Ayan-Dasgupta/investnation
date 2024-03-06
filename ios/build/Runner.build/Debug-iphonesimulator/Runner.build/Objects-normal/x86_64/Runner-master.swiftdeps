@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "56a899bc24e7e1630676214d74e0cce5bd6de131940908d1f5152fb0e1c41e15"
+build_start_time: [1701928567, 470727000]
+build_end_time: [1701928567, 506688000]
+inputs:
+  "/Users/user/Flutter_Projects/investnation-app/ios/Runner/AppDelegate.swift": !private [1694060752, 691529036]
